@@ -32,7 +32,6 @@ MyPocket Gallery offers a seamless and intuitive platform for managing and showc
 4. **Track:**
    - Keep track of your art pieces and their details.
 
-including purchase history and provenance on MyPocket Gallery.
 
 ### Support
 
