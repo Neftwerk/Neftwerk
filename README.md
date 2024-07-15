@@ -44,4 +44,3 @@ For any questions or assistance, please reach out to our support teams:
 ## Demo
 
 https://drive.google.com/file/d/1ILTOHZn0xfbfixm8pjxNu9NH_CcwPYqr/view?usp=sharing
-file:///Users/zaeemchaudhary/Downloads/Untitled%20(3)%20(2).mp4
