@@ -37,7 +37,7 @@ MyPocket Gallery offers a seamless and intuitive platform for managing and showc
 
 For any questions or assistance, please reach out to our support teams:
 
-- Neftwerk : neftwerk@neftwerk.com
+- Neftwerk : development@neftwerk.com
 
 ---
 
